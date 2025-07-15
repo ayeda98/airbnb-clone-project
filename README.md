@@ -49,7 +49,7 @@ II. Team Roles
   </tbody>
 </table>
 
-III. Tech Stack
+III. Technology Stack
 <table>
   <thead>
     <tr>
